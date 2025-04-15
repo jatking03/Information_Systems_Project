@@ -1,4 +1,4 @@
-# Welcome to your 6th project
+# Welcome to your 6th Semester project
 
 ## Project info
 
